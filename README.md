@@ -1,8 +1,3 @@
----
-cover: >-
-  https://images.unsplash.com/photo-1708852154434-d6436655b99d?crop=entropy&cs=srgb&fm=jpg&ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDkxMTg1MDZ8&ixlib=rb-4.0.3&q=85
-coverY: 0
----
+# 🎤 Main Page
 
-# This is the first page of big space
-
+<figure><img src="https://images.unsplash.com/photo-1707789432420-dd6a98cb652a?crop=entropy&#x26;cs=srgb&#x26;fm=jpg&#x26;ixid=M3wxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE3MDkxMjMyNjN8&#x26;ixlib=rb-4.0.3&#x26;q=85" alt=""><figcaption></figcaption></figure>
